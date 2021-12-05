@@ -1,0 +1,9 @@
+C:\Users\Mohamed\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\Mohamed\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.Main.resources
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\Mohamed\source\repos\Task\Task\obj\Debug\Task.pdb
